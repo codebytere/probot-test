@@ -1,4 +1,3 @@
-watchedLabels:
-  - todo
-  - doing
-  - done
+watchedProject:
+  id: 1
+  name: 'Radar'
