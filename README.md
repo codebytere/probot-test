@@ -1,3 +1,3 @@
 testing things whoooo
 
-go go gotta restart server
+i'm an idiot
